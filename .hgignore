@@ -1,0 +1,17 @@
+syntax: glob
+log/test.log
+log/development.log
+.gitignore
+tmp/*
+vendor/assets/javascripts/.gitkeep
+vendor/assets/stylesheets/.gitkeep
+vendor/plugins/.gitkeep
+app/mailers/.gitkeep
+app/models/.gitkeep
+lib/assets/.gitkeep
+lib/tasks/.gitkeep
+log/.gitkeep
+Gemfile.lock
+.hgignore
+public/*
+Copy of *
